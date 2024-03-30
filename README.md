@@ -16,3 +16,11 @@ LinguaGlimmer is a chat application designed to facilitate communication between
 
    ```bash
    git clone https://github.com/your-username/LinguaGlimmer.git
+
+## Deployed Application
+
+The application is deployed at: https://yashal-ali-linguaglimmer--app-bc4hbw.streamlit.app/
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
